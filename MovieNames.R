@@ -1,4 +1,4 @@
-####convert movie ID to movie names and truncate the size of dataset####
+####convert movie ID to movie names and truncate the size of dataset for the purpose of the workshop####
 setwd('/Users/charleswu/Google Drive/HoltLab/Mentoring/Programming/ml-20m')
 raw1 <- read.csv('movies.csv')
 raw2 <- read.csv('ratings.csv')
